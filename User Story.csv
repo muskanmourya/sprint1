@@ -1,0 +1,395 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Inward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Outward issue link (Relates),Custom field (Development),Custom field (Rank),Sprint,Custom field (Story point estimate),Parent,Parent summary,Status Category
+validate that dropdown data of top menu options are visible and accessible to user.(home page),AP-149,10158,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,7/11/2022 8:19,7/11/2022 9:23,7/11/2022 11:08,7/11/2022 8:19,,0,"Validate that dropdown data of top menu options are visible and accessible to user.
+
+Acceptance Criteria:
+
+# Open URL [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+# Click on to menu options : paint & texture, wallpaper etc.
+#  Top menu options should be clickable.",,Muskan Mourya,62c26a539763a5e6026ee146,,,,,,,,,AP-43,AP-150,AP-151,,,0|i000xb:,AP Sprint 1,15,10052,Home page.,Done
+"User should allow to access ""Find a contractor"" icon.",AP-141,10150,Story,In Progress,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,,Pooja singh,62c26a0da7de1e7c7c2cd1a1,Pooja singh,62c26a0da7de1e7c7c2cd1a1,Pooja singh,62c26a0da7de1e7c7c2cd1a1,7/11/2022 4:53,7/11/2022 8:10,7/11/2022 9:07,,,0,"User should allow to access ""Find a contractor"" icon.
+
+Acceptance criteria:
+
+1.Open browser.
+
+2.Launch URL: [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+3.Assian paint website should be open.
+
+4. “Find a contractor” icon should be there on the website page.",,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,,,,,,,,,AP-148,,,,0|i00022:n,AP Sprint 1,15,,,In Progress
+Allow the user to purchase the color selection tool.,AP-132,10141,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,7/9/2022 9:47,7/11/2022 9:25,7/11/2022 11:08,7/9/2022 12:02,,0,"Allow the user to purchase the color selection tool
+
+# Go to the website [https://www.asianpaints.com/content/ap/en/home.html.|https://www.asianpaints.com/content/ap/en/home.html.]                             
+# click on shop page.                             
+# click on color selection tool.                                  
+# select the color select tool.
+# click on Buy now.
+# click on payment process.
+# user can purchase a color selection tool.",,Sukanya Pucheti,62c26a102c528400c9b558f1,,,,,,,,,,AP-133,AP-134,AP-135,,0|i000tb:,AP Sprint 1,16,10055,Shop,Done
+Validate Page title ,AP-127,10136,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,7/7/2022 5:45,7/11/2022 9:24,7/11/2022 9:24,7/11/2022 6:28,,0,"validate Page Title on the website
+
+Acceptance criteria:
+
+# user should able to view Page title “Asian Paints”
+#  Page title “Asian Paints” should appear in top left corner page
+# page title “Asian Paints” should appear on every page of website
+# page title “Asian Paints” should be spell correct ",,Muskan Mourya,62c26a539763a5e6026ee146,,,,,,,,,,AP-128,AP-129,AP-130,,0|i0001z:1,AP Sprint 1,14,10052,Home page.,Done
+Allow user to select a store for booking ,AP-42,10051,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Manasa Reddy,5f9e4b3f048052006b116530,Manasa Reddy,5f9e4b3f048052006b116530,Manasa Reddy,5f9e4b3f048052006b116530,7/5/2022 9:45,7/11/2022 9:24,7/11/2022 11:08,7/8/2022 5:42,,0,"Steps:
+
+1.Enter the URL: [Wall Painting Design Ideas & Room Paint Designs for Home Painting - Asian Paints|https://www.asianpaints.com/inspiration/ideas/inspiration-gallery.html]
+
+2.Scroll down the page to find a Find a store option
+
+3.Allow user to enter the 6 digit pin correctly
+
+4.Then click on Go
+
+5. User get the results of near by Asian paints store by Store locator 
+
+6.User can select the store for booking successfully ",,Manasa Reddy,5f9e4b3f048052006b116530,,,,,,,,,,AP-115,AP-117,,,0|i00020:g,AP Sprint 1,14,10054,Ideas,Done
+Allow User to click Enquire now in Ideas gallery  in ideas ,AP-41,10050,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Manasa Reddy,5f9e4b3f048052006b116530,Manasa Reddy,5f9e4b3f048052006b116530,Manasa Reddy,5f9e4b3f048052006b116530,7/5/2022 9:19,7/11/2022 9:23,7/11/2022 11:08,7/11/2022 6:29,,0,"Steps:
+
+1.Enter the URL: [Wall Painting Design Ideas & Room Paint Designs for Home Painting - Asian Paints|https://www.asianpaints.com/inspiration/ideas/inspiration-gallery.html]
+
+2. Click on enquire now 
+
+3.Allow user to enter Username \[A-Z characters], email, mobile number\[10 digits] and pin\[6 digit] code successfully  
+
+4.Then click on Enquire now 
+
+5. User get the free site evaluation by an Asian paints safe painting service expert successfully.
+
+ ",,Manasa Reddy,5f9e4b3f048052006b116530,,,,,,,,,,AP-121,AP-123,AP-138,,0|i0001z:1i,AP Sprint 1,15,10054,Ideas,Done
+Validate information present on the page,AP-40,10049,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,7/5/2022 9:00,7/11/2022 9:23,7/11/2022 9:23,7/8/2022 7:02,,0,"Validate information present on the home page
+
+ check weather the information present on page is correct or not and working fine or not
+
+Acceptance criteria:
+
+# User Should be allowed to click on search bar and can search 
+# User Should be allowed to access Design and Color app
+# User Should be allowed to access Find a contractor
+# User Should be allowed to access Find a store
+# User Should be allowed to access contact number
+# User Should be allowed to access User Profile
+# User Should be allowed to access Wishlist
+# User Should be allowed to access cart",,Muskan Mourya,62c26a539763a5e6026ee146,,,,,,,,,,AP-49,AP-50,,,0|i00022:t,AP Sprint 1,15,10052,Home page.,Done
+Allow user to get suggestions/Ideas for its painting requirement ,AP-39,10048,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Manasa Reddy,5f9e4b3f048052006b116530,Manasa Reddy,5f9e4b3f048052006b116530,Manasa Reddy,5f9e4b3f048052006b116530,7/5/2022 8:51,7/11/2022 9:23,7/5/2022 9:43,7/8/2022 5:42,,0,"Steps:
+
+1.Enter the URL: [Wall Painting Design Ideas & Room Paint Designs for Home Painting - Asian Paints|https://www.asianpaints.com/inspiration/ideas/inspiration-gallery.html]
+
+2.Allow user to select Color ,Product Type and Room by using drop down.
+
+3.The result should be filtered by the priority   selected by the user.
+
+4.The user is able to see the result successfully.",,Manasa Reddy,5f9e4b3f048052006b116530,,,,,,,,,,AP-111,AP-113,AP-139,,0|i00020:f,AP Sprint 1,12,10054,Ideas,Done
+Validate Top menu ,AP-38,10047,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,7/5/2022 8:47,7/11/2022 9:24,7/11/2022 9:23,7/8/2022 7:01,,0,"Validate Top menu
+
+ User should be able to access all the top menu options.
+
+Acceptance criteria:
+
+# User Should be allowed to access paints & texture dropdown
+# User Should be allowed to access wallpaper dropdown
+# User Should be allowed to access health & hygiene dropdown
+# User Should be allowed to access services
+# User Should be allowed to access Ideas
+# User Should be allowed to access shop
+
+ ",,Muskan Mourya,62c26a539763a5e6026ee146,,,,,,,,,,AP-51,AP-52,,,0|i00022:s,AP Sprint 1,15,10052,Home page.,Done
+validate the header ,AP-37,10046,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,7/5/2022 8:40,7/11/2022 9:24,7/11/2022 9:23,7/8/2022 7:01,,0,"Validate the Header 
+
+  User should be able to access top header content properly.
+
+Acceptance criteria:
+
+#  User should be able to Access Asian Paints website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+# User Should be allowed to access homeowners
+# User Should be allowed to access Architecture
+# User Should be allowed to access Large Projects
+# User Should be allowed to access Kitchen 
+# User Should be allowed to access bath
+# User Should be allowed to access Automotive
+# User Should be allowed to access Industrial
+# User Should be allowed to access Penta",,Muskan Mourya,62c26a539763a5e6026ee146,,,,,,,,,,AP-53,AP-126,,,0|i00022:si,AP Sprint 1,15,10052,Home page.,Done
+Allow user to click on paint budget calculator,AP-36,10045,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,7/5/2022 8:29,7/11/2022 10:23,7/11/2022 11:08,7/11/2022 6:29,,0,"# User should enter the following website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+# After that click on Paints and textures tab
+# Once clicking on paints and textures tab user will able to see paint budget calculator heading
+# User should click on paint budget calculator heading which will show new page.
+# In new page user has to select type of painting whether it is fresh painting or re-painting
+# After this user has to select whether painting is for exterior or interior and also the size of the home
+# After selecting size of the home  user should select carpet area
+# After selecting all this option their is calculate now button user need to click on that button which will calculate the entire paint budget",,mayuri rokade,62c2716a2c528400c9b55af1,,,,,,,,,,AP-118,AP-119,AP-144,,0|i0001z:14,AP Sprint 1,13,10053,Paints and textures tab,Done
+Allow user to click on exterior textures,AP-35,10044,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,7/5/2022 8:26,7/11/2022 10:24,7/11/2022 11:08,7/8/2022 6:14,,0,"# Ask user to click on Asian paints website[https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+# After that click on Paints and textures tab
+# Once clicking on paints and textures tab user will able to see interior textures heading
+# User should click on interior textures heading which will show new page with various exterior texture
+
+Acceptance criteria
+
+After clicking on exterior textures tab user will see new page with various textures .",,mayuri rokade,62c2716a2c528400c9b55af1,,,,,,,,,,AP-116,AP-114,,,0|i00020:d1,AP Sprint 1,12,10053,Paints and textures tab,Done
+Allow user to select WoodTech Range in wood paints of wood and metals,AP-34,10043,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 7:30,7/11/2022 9:35,7/11/2022 11:08,7/8/2022 6:14,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture tab
+
+3.Open wood and metals
+
+4.Click on wood paints
+
+5.Click on WoodTech Range
+
+Acceptance Criteria:
+
+User should be able to click on any option in WoodTech Range",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-96,AP-97,,,0|i00020:di,AP Sprint 1,6,10053,Paints and textures tab,Done
+Allow user to click on Wood Paints in  wood and metal of Paints and Texture,AP-32,10041,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 7:25,7/11/2022 9:35,7/11/2022 11:08,7/8/2022 5:46,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture
+
+3.Click on Wood and metals
+
+4.Click on Wood paints
+
+Acceptance Criteria:
+
+User should be able to click on Wood paints in wood and metals",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-94,AP-95,,,0|i00020:h,AP Sprint 1,4,10053,Paints and textures tab,Done
+Allow user to click on radio button of Add to compare in waterproofing,AP-29,10038,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 7:12,7/11/2022 9:35,7/11/2022 11:08,7/8/2022 6:14,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture
+
+3.Open Waterproofing
+
+4.Click on terrace and Tanks
+
+5.Click on radio button in front of Add to compare
+
+Acceptance criteria:
+
+User should be able to click on Add to compare",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-92,AP-93,,,0|i00020:e,AP Sprint 1,7,10053,Paints and textures tab,Done
+Allow user to click on Terrace and tanks in Waterproofing,AP-28,10037,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 7:09,7/11/2022 9:35,7/10/2022 13:58,7/8/2022 6:19,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Textures
+
+3.Open Waterproofing
+
+4.Click on Terrace and Tank
+
+Acceptance Criteria:
+
+User should be able to click on Terrace and Tank",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-90,AP-91,,,0|i0001z:2,AP Sprint 1,12,10053,Paints and textures tab,Done
+Allow user to click on View Catalogue in texture finishes of exterior,AP-26,10035,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 7:00,7/11/2022 9:35,7/5/2022 7:02,7/8/2022 6:19,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture
+
+3.Open Exterior
+
+4.Click on Texture finishes
+
+5.Click on View Catalogue
+
+Acceptance Criteria:
+
+User should be able to click on View Catalogue",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-88,AP-89,,,0|i0001z:4,AP Sprint 1,10,10053,Paints and textures tab,Done
+User can login through Mobile number,AP-23,10032,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,Muskan Mourya,62c26a539763a5e6026ee146,7/5/2022 6:55,7/11/2022 9:23,7/11/2022 9:23,7/8/2022 7:02,,0,"User can login through Mobile number
+
+Acceptance criteria:
+
+# User should go to [https://www.asianpaints.com/my-wishlist.html|https://www.asianpaints.com/my-wishlist.html|smart-link]  link for login
+# User should be allowed to login with valid mobile number
+# User should navigate to Register page
+#  User should be allowed to  enter valid name
+# User should be allowed to enter valid email
+# User should be allowed to enter OTP
+# User should be allowed to create an account by submitting information using Submit",,Muskan Mourya,62c26a539763a5e6026ee146,,,,,,,,,,AP-47,AP-48,AP-140,,0|i00022:vh4,AP Sprint 1,14,10052,Home page.,Done
+Allow user to click on Textured Finishes in exterior,AP-22,10031,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:55,7/11/2022 9:35,7/8/2022 9:55,7/11/2022 6:29,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture tab
+
+3.Open Exterior
+
+4.Click on Textured Finishes
+
+Acceptance Criteria:
+
+User should be able to click on Textured finishes
+
+After clicking new page should be ope",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-85,AP-87,AP-131,,0|i0001z:19,AP Sprint 1,2,10053,Paints and textures tab,Done
+Allow user to select any color from wall paints in Exterior,AP-21,10030,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:51,7/11/2022 9:36,7/11/2022 11:08,7/8/2022 5:49,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture Tab
+
+3.Open exterior
+
+4.Click on wall paints 
+
+5.Click on color type
+
+Acceptance criteria:
+
+User should be able to select color type from All,Ace,Ultima,Apex",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-82,AP-83,,,0|i00022:hr,AP Sprint 1,10,10053,Paints and textures tab,Done
+Allow user to click on Interior textures,AP-20,10029,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,7/5/2022 6:50,7/11/2022 9:34,7/11/2022 11:08,7/8/2022 6:14,,0,"# go to asian paints website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+# After that click on Paints and textures tab
+# Once clicking on paints and textures tab user will able to see interior textures heading 
+# User should click on interior textures heading which will show new page with various interior texture
+
+Acceptance criteria
+
+After clicking on interior textures tab user will see new page with various textures .",,mayuri rokade,62c2716a2c528400c9b55af1,,,,,,,,,,AP-110,AP-112,,,0|i00020:d2,AP Sprint 1,10,10053,Paints and textures tab,Done
+Allow the user to select color selection tool ,AP-19,10028,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,7/5/2022 6:50,7/11/2022 9:25,7/11/2022 11:08,7/8/2022 7:03,,0,"Allow the user to select color selection tool 
+
+# Go to the website[https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link]
+# Go to the shop tab.
+# It display various categories, choose color selection tool.
+# Click on the color selection tool.
+# Select the color selection tool.",,Sukanya Pucheti,62c26a102c528400c9b558f1,,,,,,,,,,AP-76,AP-79,,,0|i0009l:,AP Sprint 1,14,10055,Shop,Done
+Allow user to click on view product in wall textures,AP-18,10027,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:45,7/11/2022 9:36,7/11/2022 11:08,7/8/2022 5:43,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and texture tab
+
+3.Open Interior
+
+4.Click on wall textures
+
+5.Click on view product
+
+Acceptance criteria:
+
+User should be able to click on View product option
+
+After clicking new page should be displayed",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-80,AP-81,AP-145,,0|i00022:hi,AP Sprint 1,8,10053,Paints and textures tab,Done
+Allow the user can search/select for different wall papers ,AP-16,10025,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,7/5/2022 6:41,7/11/2022 9:25,7/11/2022 11:08,7/8/2022 7:03,,0,"Allow the user can search/select for different wall papers 
+
+# Go to website[https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link]
+# Go to shop tab.
+# Click on the shop tab it show various options.
+# Click or search for category wall paper.
+# It displays the different wall papers with price and available colours ",,Sukanya Pucheti,62c26a102c528400c9b558f1,,,,,,,,,,AP-70,AP-73,,,0|i0009k:,AP Sprint 1,12,10055,Shop,Done
+Allow user to click on wall texture in Paints and Texture tab,AP-15,10024,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:38,7/11/2022 9:36,7/11/2022 11:08,7/8/2022 5:43,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture
+
+3.Open Interior
+
+4.Click on Wall texture
+
+Acceptance criteria:
+
+User should be able to click on Wall texture 
+
+After clicking new page should be displayed",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-75,AP-77,,,0|i00022:h,AP Sprint 1,7,10053,Paints and textures tab,Done
+Allow user to click on 2200 colours,AP-13,10022,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,7/5/2022 6:33,7/11/2022 10:24,7/11/2022 11:08,7/8/2022 6:14,,0,"1 Go to the website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2. Go to the paints and texture tab
+
+3. Under Colours and textures tab click on 2200 colours 
+
+4. After clicking 2200 colours user will able to see different shades of colours
+
+Acceptance criteria
+
+ User should able to click on 2200 colours and after clicking it new page should appear with different shades of colours",,mayuri rokade,62c2716a2c528400c9b55af1,,,,,,,,,,AP-106,AP-107,AP-146,,0|i00020:d4,AP Sprint 1,15,10053,Paints and textures tab,Done
+Allow user to click on payment option ,AP-10,10019,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,M Monisha,62c26b6ceda95d2e3a68b7ab,M Monisha,62c26b6ceda95d2e3a68b7ab,M Monisha,62c26b6ceda95d2e3a68b7ab,7/5/2022 6:28,7/11/2022 9:24,7/11/2022 11:08,7/8/2022 11:27,,0,"Allow user to click on  payment option : 
+
+# User should be allowed to see payment option.
+# User should be able to see payment option such as Credit card ,Debit card ,Net Banking or Cash on delivery
+# user should be allowed to save payment method
+# Verify that session should be timed out if payment is not done for a certain time.
+# On successful payment email or text message should be sent to user along with order number",,M Monisha,62c26b6ceda95d2e3a68b7ab,,,,,,,,,,AP-84,AP-86,AP-136,,0|i0009s:,AP Sprint 1,8,10055,Shop,Done
+Allow user to see description after selecting color,AP-9,10018,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:24,7/11/2022 9:36,7/11/2022 11:08,7/8/2022 5:43,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture tab
+
+3.Under Interior,Click on wall paints
+
+4.Select the color type
+
+5.Choose the color 
+
+6.Click on color
+
+Acceptance Criteria:
+
+User should be able to click on color
+
+User should be able to see description of color after clicking",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-72,AP-74,,,0|i00022:g,AP Sprint 1,5,10053,Paints and textures tab,Done
+Allow user to click on add to compare in wall paints,AP-8,10017,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:20,7/11/2022 9:35,7/11/2022 11:08,7/8/2022 5:42,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to paints and texture
+
+3.Under interior click on Wall paints
+
+4.Select type of color
+
+5.Choose color
+
+6.Click on add to compare
+
+Acceptance Criteria:
+
+User should be able to choose any color
+
+User should be able to click on add to compare",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-68,AP-69,,,0|i00022:f,AP Sprint 1,6,10053,Paints and textures tab,Done
+Allow user to choose any color from wall paints,AP-6,10015,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:15,7/11/2022 9:34,7/5/2022 7:05,7/11/2022 6:29,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to paints and texture tab
+
+[3|http://3.IN].Under Interior click on wall paints
+
+4.Click on any type
+
+Acceptance Criteria:
+
+User should be able to click on any type of color 
+
+After clicking colors in that category should be displayed",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-66,AP-67,AP-143,,0|i0001z:16,AP Sprint 1,3,10053,Paints and textures tab,Done
+Allow user to click on add to cart  or buy now ,AP-5,10014,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,M Monisha,62c26b6ceda95d2e3a68b7ab,M Monisha,62c26b6ceda95d2e3a68b7ab,M Monisha,62c26b6ceda95d2e3a68b7ab,7/5/2022 6:14,7/11/2022 9:25,7/11/2022 11:08,7/8/2022 8:13,,0,"Allow user to click add to cart  or buy now : 
+
+# User should be allowed to click on Add to cart
+# It shows enter serviceable pin code to add product to cart 
+# User is should be registered then only user selected product will be added to cart.
+# selected product should be moved to cart
+# user should be allowed to continue shopping after adding product to cart
+# user should be allowed to add same product in quantity option
+# user should be allowed to see total amount of product in cart is displayed or not
+# user should be allowed to see amount displayed includes taxes and shipping charge as per location
+# user should be allowed when user click on remove from cart button then the product should be removed from cart
+# user should be allowed to apply coupons or vouchers at checkout from cart
+# User should add address and should fill required fields
+# user should be allowed to see product whenever user logs out and logs in again. ",,M Monisha,62c26b6ceda95d2e3a68b7ab,,,,,,,,,,AP-71,AP-78,,,0|i0009o:,AP Sprint 1,5,10055,Shop,Done
+Allow user to search /select for different wall stickers ,AP-4,10013,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,7/5/2022 6:08,7/11/2022 9:24,7/11/2022 11:08,7/8/2022 7:03,,0,"h1. Allow user to search /select for different wall stickers
+
+# Go to website[https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link]
+# Go to Shop tab.
+# It displays several options. 
+# search or select the category wall stickers.
+# It shows the different  wall stickers along with their prices. ",,Sukanya Pucheti,62c26a102c528400c9b558f1,,,,,,,,,,AP-56,AP-58,AP-147,,0|i0009j:i,AP Sprint 1,10,10055,Shop,Done
+Allow user to shop ,AP-3,10012,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,Sukanya Pucheti,62c26a102c528400c9b558f1,7/5/2022 6:06,7/11/2022 9:23,7/11/2022 11:08,7/8/2022 7:03,,0,"Allow user to shop
+
+# Go to the website[https://www.asianpaints.com/content/ap/en/home.html|https://www.asianpaints.com/content/ap/en/home.html|smart-link] 
+
+  2.  Go to the shop tab.",,Sukanya Pucheti,62c26a102c528400c9b558f1,,,,,,,,,,AP-54,AP-55,,,0|i0009j:9,AP Sprint 1,8,10055,Shop,Done
+User should be able to click on wall paints in interior of paints and texture tab,AP-2,10011,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,7/5/2022 6:04,7/11/2022 10:25,7/5/2022 7:05,7/8/2022 6:19,,0,"1.Go to website [https://www.asianpaints.com/|https://www.asianpaints.com/|smart-link] 
+
+2.Go to Paints and Texture tab
+
+3.Open interior
+
+4.Click on wall paints
+
+Acceptance criteria:
+
+User should be able able to click on Wall paints option
+
+After clicking wall paints user should be able to view a new page",,Pooja Vikas Parandwal,62c26f119763a5e6026ee27f,,,,,,,,,,AP-64,AP-65,,,0|i0001z:9,AP Sprint 1,14,10053,Paints and textures tab,Done
+User should able to see colour and texture option after clicking on paints and texture tab,AP-1,10010,Story,Done,AP,Asian paints,software,Pooja singh,62c26a0da7de1e7c7c2cd1a1,,Medium,Done,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,mayuri rokade,62c2716a2c528400c9b55af1,7/5/2022 6:01,7/11/2022 9:34,7/8/2022 7:42,7/8/2022 6:14,,0,"
+
+# First user should enter the Asian paints website
+
+   2. After opening the website user should able to see colour and texture heading
+
+   3. Once clicking on colour and texture tab user will able to see various sub headings
+
+  4. In sub headings user should click on colours and texture tab 
+
+Acceptance criteria
+
+After clicking on colours and texture tab user will redirect to new page with various features of colours and texture.",,mayuri rokade,62c2716a2c528400c9b55af1,,,,,,,,,,AP-57,AP-59,,,0|i00020:d9,AP Sprint 1,11,10053,Paints and textures tab,Done
